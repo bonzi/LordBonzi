@@ -1,4 +1,14 @@
-### Hi there 👋
+### LordBonzi
+
+Where to find me:
+
+
+- [Website](https://lordbonzi.pro)
+- [Twitter](https://twitter.com)
+
+Currently working at:
+- [@FlawCon](https://github.com/FlawCon)
+- [@AS207960](https://github.com/AS207960)
 
 <!--
 **LordBonzi/LordBonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
