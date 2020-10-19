@@ -1,4 +1,4 @@
-### LordBonzi
+### bonzi
 
 Where to find me:
 
@@ -11,7 +11,7 @@ Currently working at:
 - [@AS207960](https://github.com/AS207960)
 
 <!--
-**LordBonzi/LordBonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bonzi/Bonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
