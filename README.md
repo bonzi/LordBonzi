@@ -2,13 +2,11 @@
 
 Where to find me:
 
+- Here
+- [Website](https://bonzi.sh)
 
-- [Website](https://lordbonzi.pro)
-- [Twitter](https://twitter.com)
-
-Currently working at:
-- [@FlawCon](https://github.com/FlawCon)
-- [@AS207960](https://github.com/AS207960)
+![bonzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonzi&theme=midnight-purple&hide_border=true&cache_seconds=1800&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonzi&theme=midnight-purple&hide_border=true&cache_seconds=1800&exclude_repo=bm60ec-qmk-config,pidcodes.github.com,qmk_firmware&layout=compact)
 
 <!--
 **Bonzi/Bonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
